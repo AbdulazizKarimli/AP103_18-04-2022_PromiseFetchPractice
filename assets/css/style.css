@@ -1,0 +1,42 @@
+header {
+  box-shadow: 0 2px #5666;
+}
+
+header .header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0;
+}
+
+#filter {
+  margin-top: 30px;
+}
+
+#filter .filter-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+#filter .filter-wrapper .search-box {
+  width: 30%;
+}
+
+#countries {
+  margin-top: 30px;
+}
+
+#countries .card {
+  margin-top: 10px;
+}
+
+#countries .card .card-item {
+  display: flex;
+}
+
+#countries .card .card-item h6 {
+  margin-bottom: 0;
+}
+
+#countries .card .card-item span {
+  padding-left: 8px;
+}
